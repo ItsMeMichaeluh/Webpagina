@@ -162,7 +162,15 @@ h1 {
     min-height: 75vh;
     min-width: 75vh;
   }
- 
+
+  .box2 {
+    background-color: rgb(73, 203, 17);
+    width: 20vh;
+    min-height: 40vh;
+    border: 7px solid rgb(73, 203, 17);
+    margin: auto;
+    margin-top: 5vh;
+  }
   
     
   
