@@ -43,7 +43,7 @@ h1 {
   height:200px;
   border-radius:50%;
   margin-left: 20px;
-  box-shadow: rgba(255, 255, 255, 0.25) 0px 54px 55px, rgba(251, 251, 251, 0.12) 0px -12px 30px, rgba(244, 242, 242, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 
 /* The side navigation menu */
@@ -210,18 +210,19 @@ h1 {
 
   .box3{                 /*contacten*/
     border-radius: 25px;
-  background: #73AD21;
   padding: 40px; 
   width: 200px;
   height: 220px;  
   margin-left: 20px;
   margin-top: 50px;
   text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px
 }
   
   .contact{
     font-size: 15px;
     text-align: center;
+    color: white;
   }
 
   .School{
